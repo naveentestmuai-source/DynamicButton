@@ -1,4 +1,4 @@
-﻿# Fully Dynamic DOM Button App
+﻿# Fully Dynamic DOM Button Application
 
 A minimal Node.js + Express example that serves a single page with a button whose entire DOM subtree is torn down and rebuilt every 5 seconds. Each cycle:
 
